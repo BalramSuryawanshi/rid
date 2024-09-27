@@ -1,4 +1,4 @@
-const Organisation = require("../models/Organisation");
+const Organisation = require("../models/organisation");
 
 // Register Organization
 const registerOrganisation = async (req, res) => {
